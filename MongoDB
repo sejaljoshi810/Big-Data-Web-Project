@@ -1,0 +1,30 @@
+db.Recipe.insert({
+"id": "0001",
+"category" : "breakfast",
+"name" : "Apple Crisp",
+"rating": "4",//rating is a image in code, can put that
+"img": //image source,
+"cooking time" : "30 minutes",
+"directions" : "
+Preheat the oven to 350 degrees F.
+Slice apples and place in a bag or bowl with 1 tbsp brown sugar and cinnamon, stirring to coat.
+Place apples in a small baking dish.
+Combine oats, protein powder, walnut pieces, cinnamon, and 1 tbsp brown sugar.
+Once combined, drizzle honey over the oat mixture and stir to coat.
+Spoon mixture over the apples in the baking dish.
+Bake apples for about 20 minutes.
+When apple crisp is done, allow it to cool for five minutes and then top with Greek yogurt.
+",
+"ingredients" :
+"
+1 cup sliced Apple
+2 tbsp Brown Sugar
+1/8 tsp Cinnamon
+1/2 cup rolled Oats
+1 scoop Vanilla Protein Powder
+2 tbsp Walnut pieces
+Dash of Cinnamon
+1/4 cup Organic Honey
+1/2 cup Low-fat Greek Yogurt
+"})
+ 
